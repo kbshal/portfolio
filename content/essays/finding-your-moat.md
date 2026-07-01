@@ -1,6 +1,6 @@
 ---
 title: "finding your moat"
-date: 2026-04-20
+date: 2026-06-30
 description: "see your moat through this"
 tags: ["life", "ai", "introspection"]
 ---
