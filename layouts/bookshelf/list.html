@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div class="page-content">
+  <h1 class="page-heading">{{ .Title }}</h1>
+  {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
+
+  {{ range .Params.books }}
+  <div class="book-item">
+    <div>
+      <span class="book-title">{{ .title }}</span>
+      <span class="book-status {{ .status }}">{{ if eq .status "reading" }}reading{{ else }}read{{ end }}</span>
+    </div>
+    <div class="book-author">{{ .author }}</div>
+    {{ with .note }}<div class="book-note">{{ . }}</div>{{ end }}
+  </div>
+  {{ end }}
+</div>
+{{ end }}

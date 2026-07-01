@@ -1,0 +1,20 @@
+{{ define "main" }}
+<div class="page-content">
+  <h1 class="page-heading">{{ .Title }}</h1>
+  {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
+
+  {{ range .Params.projects }}
+  <div class="project-item">
+    <div class="project-item-header">
+      <span class="project-item-title"><a href="{{ .github }}" target="_blank" rel="noopener">{{ .title }}</a></span>
+      <div class="project-item-links">
+        {{ with .github }}<a href="{{ . }}" target="_blank" rel="noopener">code</a>{{ end }}
+        {{ with .live }}<a href="{{ . }}" target="_blank" rel="noopener">live</a>{{ end }}
+      </div>
+    </div>
+    <div class="project-item-desc">{{ .desc }}</div>
+    {{ with .tools }}<div class="project-item-desc" style="margin-top: 0.15rem; font-size: 0.82rem;">{{ . }}</div>{{ end }}
+  </div>
+  {{ end }}
+</div>
+{{ end }}

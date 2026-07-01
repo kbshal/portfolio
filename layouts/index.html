@@ -1,0 +1,29 @@
+{{ define "main" }}
+<div class="page-content">
+  <div class="home-intro">
+    {{ .Content }}
+  </div>
+  <div class="section-index">
+    <div class="section-index-item">
+      <a href="{{ "about/" | absURL }}">/about</a>
+      <span class="item-desc">who I am and what I do</span>
+    </div>
+    <div class="section-index-item">
+      <a href="{{ "essays/" | absURL }}">/essays</a>
+      <span class="item-desc">long-form writing on AI, engineering, and ideas</span>
+    </div>
+    <div class="section-index-item">
+      <a href="{{ "life/" | absURL }}">/life</a>
+      <span class="item-desc">personal reflections and stories</span>
+    </div>
+    <div class="section-index-item">
+      <a href="{{ "projects/" | absURL }}">/projects</a>
+      <span class="item-desc">things I've built</span>
+    </div>
+    <div class="section-index-item">
+      <a href="{{ "bookshelf/" | absURL }}">/bookshelf</a>
+      <span class="item-desc">what I'm reading</span>
+    </div>
+  </div>
+</div>
+{{ end }}

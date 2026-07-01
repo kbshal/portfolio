@@ -1,0 +1,14 @@
+<header class="site-header">
+  <div class="site-identity">
+    <h1><a href="{{ "/" | absURL }}">{{ .Site.Title }}</a></h1>
+    <div class="site-subtitle">{{ .Site.Params.subtitle }}</div>
+  </div>
+  <nav class="site-nav">
+    {{- range .Site.Menus.main }}
+    <a href="{{ .URL | absURL }}"{{ if or ($.IsMenuCurrent "main" .) (hasPrefix $.RelPermalink .URL) }} class="active"{{ end }}>{{ .Name }}</a>
+    {{- end }}
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
+      <span id="theme-icon">🌙</span>
+    </button>
+  </nav>
+</header>

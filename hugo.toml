@@ -1,0 +1,46 @@
+baseURL = "https://bishalkharal.com.np/"
+languageCode = "en-us"
+title = "Bishal Kharal"
+description = "Researcher, builder, explorer. Essays, projects, and reflections."
+
+# Disable default taxonomy pages we don't need
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  subtitle = "thinker. writer. observer."
+  author = "Bishal Kharal"
+  github = "https://github.com/kbshal"
+  twitter = "https://twitter.com/Bshalkharal"
+
+[menu]
+  [[menu.main]]
+    name = "/about"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    name = "/essays"
+    url = "/essays/"
+    weight = 2
+  [[menu.main]]
+    name = "/life"
+    url = "/life/"
+    weight = 3
+  [[menu.main]]
+    name = "/projects"
+    url = "/projects/"
+    weight = 4
+  [[menu.main]]
+    name = "/bookshelf"
+    url = "/bookshelf/"
+    weight = 5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+
+[build]
+  [build.buildStats]
+    enable = false

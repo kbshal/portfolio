@@ -6,15 +6,3 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-
-
-
-Good morning Mrs. Alexander,
-
-My name is Bishal Kharal, a prospective student applying to Mississippi State University for fall 2023. I am planning to study computer science and mathematics and have been reviewing the college website for information on computer science offered at Howard University. I have some lingering questions about what type of research opportunities is offered to International freshman students.
-
-Thank you in advance for your time. I appreciate your assistance.
-
-Best, 
-Bishal Kharal
-whoisbishalkharal@gmail.com, +977-9862414035
