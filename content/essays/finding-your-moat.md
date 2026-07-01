@@ -1,8 +1,9 @@
 ---
 title: "finding your moat"
 date: 2026-06-30
-description: "see your moat through this"
+description: "fiding your moat in this outsourced world"
 tags: ["life", "ai", "introspection"]
+
 ---
 # finding your moat
 
