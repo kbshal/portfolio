@@ -2,35 +2,34 @@
 title: "finding your moat"
 date: 2026-04-20
 description: "see your moat through this"
-tags: ["life", "ai"]
+tags: ["life", "ai", "introspection"]
 ---
-we all have been using extensively ai for coding and it has been amazing so far i hope it is for you aswell.
+# finding your moat
 
-the pace has never been this exponential. we see 100s of products every single day coming into market. i thought about it lately quite a lot lately. me (software engineer, ai engineer) i am offshoring my most of my coding task to ai and i have that now hollow space in time left yes i do code review yes i do architecture design but for a small feature this can be done by ai, quite fast and efficient. yes, ai still needs and extensive review on its code but what i am trying to say here is, ai will be 100x better in next 2 years in coding
+we've all been using ai heavily for coding, and it's been amazing. i hope it's been the same for you.
 
-I ponder upon this question now, what is my moat here? was coding truly my moat? 
-yes it was but now coding is getting commoditized and it gets very hard leverage out of commodotized thing.
+the pace has never been this fast. hundreds of products hitting the market every single day. i've been thinking about it a lot. me (a software engineer, an ai engineer): i'm offshoring most of my coding to ai now, and it's left me with this hollow space in time. yeah, i still do code review, i still do architecture. but a small feature? ai does that fast, and does it well. the code still needs a serious review, sure. but here's the thing i keep landing on: in the next two or three years, ai is going to be maybe 100x better at coding than it is today.
 
-i think what we need to rethink here, coding was not only your true moat. It was your system thinking, your approach, your taste and your ideas. 
+so i keep asking myself: what's my moat here? was coding ever really my moat?
 
-ai is enabling everyone to be builder and generalist are shining. Try to see this pov as a non dev (if you are) here, who are shipping products faster? its the solo founders who might not be completely technical (mostly) -- arguable. 
+it was. but coding is getting commoditized now, and it's hard to build any leverage on top of a commodity.
 
-So the technical barrier is removed, anybody can build now. Product managers are happier than ever they will shine more in this building war phase ( I call this AI phase as building war phase). AI is forcing builders to be generalist.
+and i think that's the thing we need to sit with. coding was never your only moat. your real moat was your system thinking, your approach, your taste, your ideas.
 
-Again, we all are slowly becoming PMs ourselves interms of coding. But, the catch here will be since everyone is building and shipping the product but the law of nature or law of war is, there can be only 1 winner right so who is the winner in this building war phase and what differentiate between winners and loosers?
+because ai isn't just helping developers, it's turning everyone into a builder. the generalists are the ones shining now. look at it from a non-dev's point of view: who's actually shipping fastest? often it's the solo founders, the ones who aren't even that technical. the technical barrier is gone. anyone can build. product managers are happier than they've ever been. this is their moment to shine. i call this the building war phase, and it's forcing all of us to become generalists. we're all slowly turning into PMs of our own code.
 
+but here's the catch. if everyone can build, and everyone is shipping, what actually separates the winners from the losers?
 
-I want to mention few things first, yes ai has enabled everyone to build things faster but it comes with its own cons. If you see people are shipping random things random features. It is creating clutter more precisely feature clutter. Its like a child getting a flying carpet who dont know how it use it properly. I think its also because of this transition period, we got this super power all of a sudden and we are not able to comprehend on how to use it and understand it truly. 
+let me back up for a second. yes, ai lets everyone build faster. but that comes with a cost. look around and you'll see people shipping random things, random features, just because they can. it's creating clutter. feature clutter. it's like handing a kid a flying carpet who has no idea how to fly it. and i think that's just where we are right now: we got handed this superpower overnight, and we haven't figured out how to actually use it. so for now, it mostly makes chaos.
 
-Heres, comes the catch, i think this will just create chaos and clutterness. So my main question is what really differentiate between winners and loosers?
+which brings me back to the real question: what separates winners from losers?
 
-it has to be the taste and distribution. See understanding what truly is needed and what feature exactly has the higest impact on user will be the main differentiating factor in this building war phase. taste cannot be commoditized 
+taste and distribution.
 
-Lets understand distribution, look everyone is building products right? but has your product has reached to user? has your product actually made any impact to your end user?
+taste is knowing what's actually needed. knowing which feature will genuinely make a dent in someone's life, and which one is just noise. ai commoditizes the instant: writing code, writing copy, anything you can pull out of a prompt. what it can't commoditize is the compounded: the things you build up slowly, over time, that no prompt can hand you. taste is exactly that. it's what tells you what to build, and just as importantly, what to kill.
 
-these are the questions that will tell a lot about your position. primary focus should be on distribution aswell.
+then there's distribution. everyone's building, but has your product actually reached anyone? has it made a dent in a single real person's life? you can rent attention with ads and campaigns, but the moment you stop paying, it's gone. a real audience is earned slowly, over time. ai can't conjure that audience for you any more than it can conjure your judgment. distribution is what decides whether the thing you built lives or dies.
 
+so in this building war, the carpet is free. everyone gets one. but what you do with it is still entirely on you.
 
-Theres a saying " what is this earth without art? just a solid rock"
-
-this make sense now, your taste is your art now and its hard for anyone to copy your taste let alone ai.
+there's a line i keep coming back to: "what is this earth without art? just a solid rock." that's what taste is now. it's your art. and your art is the one thing nobody can copy. ai least of all.
