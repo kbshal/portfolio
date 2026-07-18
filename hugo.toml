@@ -22,17 +22,21 @@ disableKinds = ["taxonomy", "term"]
     url = "/essays/"
     weight = 2
   [[menu.main]]
-    name = "/life"
-    url = "/life/"
+    name = "/shorts"
+    url = "/shorts/"
     weight = 3
   [[menu.main]]
-    name = "/projects"
-    url = "/projects/"
+    name = "/life"
+    url = "/life/"
     weight = 4
+  [[menu.main]]
+    name = "/building"
+    url = "/building/"
+    weight = 5
   [[menu.main]]
     name = "/bookshelf"
     url = "/bookshelf/"
-    weight = 5
+    weight = 6
 
 [markup]
   [markup.goldmark]
