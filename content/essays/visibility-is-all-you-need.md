@@ -2,7 +2,7 @@
 title: "visibility is all you need"
 date: 2026-07-18
 description: "making your product visible"
-tags: ["GEO", "ai", "product"]
+tags: ["search", "ai", "product"]
 
 ---
 # visibility is all you need
